@@ -10,8 +10,8 @@
 	"Tnlink",
 	"pdisklinkshortener"
     ],
-    "website": "https://github.com/AkBotZ/Link-Shortener-Bot",
-    "repository": "https://github.com/AkBotZ/Link-Shortener-Bot",
+    "website": "https://github.com/Cyniteofficial/All-In-One-Shortener-Bot",
+    "repository": "https://github.com/Cyniteofficial/All-In-One-Shortener-Bot",
     "env": {
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
